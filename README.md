@@ -1,2 +1,5 @@
 # U6-JS-String-Manipulation
  
+1. Strings in Javascript - In JavaScript, strings are treated similarly to objects and are provided with built-in methods and properties. These methods allow us to do modify strings as well as search for values within strings.
+2. Search Methods -Applications that require users to signup and sign in often have unique constraint requirements for passwords and other form fields. Password fields can require verification that certain characters are included in a password string. You may need to determine if an email address ends with a specific string like .edu. JavaScript provides strings with methods that allow us to accomplish both of these tasks and more.
+3. Modification Methods - You may be familiar with methods like toUpperCase and toLowerCase that change strings. When working with user input we'll often need to edit data and change the format of given strings. String modification methods allow us to do things like break strings into smaller parts called substrings. You can also use methods to remove whitespace or combine different strings together.
